@@ -5,15 +5,9 @@ Topics Covered:
 
 Printing and Input/Output operations
 
-Conditional statements and loops
+Conditional statements, operators, patterns, and loops
 
-Functions and recursion
-
-Object-Oriented Programming (OOP) basics
-
-Arrays and string manipulations
-
-Exception handling and simple file operations
+Functions 
 
 How to Run:
 
